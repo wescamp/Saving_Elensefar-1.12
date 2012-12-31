@@ -138,6 +138,12 @@ v1.5.0
 v1.5.1
  - converted to BfW 1.11
 
+v1.5.2
+ - run wmltools over the campaign
+ - updaded translations
+ - cleaned code
+ - playtesting & converting to BfW 1.11
+
 # TODO
 - alduin, caves and saurian trap need story
 - dialogue redo on 'The Swampland' and 'Illaryan..'
