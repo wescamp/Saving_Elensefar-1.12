@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-31 09:51-0500\n"
+"POT-Creation-Date: 2013-02-17 05:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -172,12 +172,12 @@ msgid "Move Meneldur to the Explorer (southwest of the map)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:235 ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:134 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:133 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:172 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:67 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:60 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:49 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:99 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:43 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:294 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:102 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:50 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:46 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:57 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:80 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:231 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:46 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:66 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:72 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:46 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:89
+#: ./Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:235 ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:124 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:133 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:172 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:67 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:60 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:49 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:99 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:43 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:294 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:102 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:50 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:46 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:57 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:80 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:231 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:46 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:66 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:72 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:46 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:89
 msgid "Death of Meneldur"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:239 ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:138 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:137 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:176 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:71 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:64 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:53 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:103 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:47 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:298 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:106 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:54 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:50 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:61 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:84 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:235 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:50 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:70 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:76 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:50 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:93
+#: ./Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:239 ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:128 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:137 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:176 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:71 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:64 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:53 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:103 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:47 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:298 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:106 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:54 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:50 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:61 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:84 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:235 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:50 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:70 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:76 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:50 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:93
 msgid "Death of Madru"
 msgstr ""
 
@@ -229,122 +229,122 @@ msgid "Black the Red"
 msgstr ""
 
 #. [side]: id=Aldran, type=Master at Arms
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:89
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:79
 msgid "Wesnothians"
 msgstr ""
 
 #. [side]: id=Aldran, type=Master at Arms
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:91
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:81
 msgid "Aldran"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:130 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:56 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:45 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:39 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:46 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:42 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:53 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:42 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:68 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:42 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:85
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:120 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:56 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:45 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:39 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:46 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:42 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:53 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:42 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:68 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:42 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:85
 msgid "Defeat enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:142 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:141 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:180 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:75 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:68 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:57 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:107 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:51 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:302 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:110 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:58 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:54 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:65 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:88 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:239 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:54 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:74 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:80 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:54 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:97
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:132 ./Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:141 ./Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:180 ./Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:75 ./Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:68 ./Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:57 ./Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:107 ./Saving_Elensefar/scenarios/i16_Goblins.cfg:51 ./Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:302 ./Saving_Elensefar/scenarios/i18_Cave_illien.cfg:110 ./Saving_Elensefar/scenarios/i19_Unknown_Horizons.cfg:58 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:54 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:65 ./Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:88 ./Saving_Elensefar/scenarios/i5_Fire_Island.cfg:239 ./Saving_Elensefar/scenarios/i6_Traitors.cfg:54 ./Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:74 ./Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:80 ./Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:54 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:97
 msgid "Death of Black the Red"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:212
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:217
 msgid "Why do you stop us? We seek help. I come from Elensefar, which, as far as we can tell, was just captured by orcs!"
 msgstr ""
 
 #. [message]: id=Aldran
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:216
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:221
 msgid "You are interfering with our mission; we are trying to chase down this magician pirate."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:220
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:225
 msgid "I'm not a pirate! I also come from Elensefar, and I must have left port a few days before it was attacked. This is the first I've heard of it."
 msgstr ""
 
 #. [message]: id=Aldran
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:224
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:229
 msgid "You dog, don't bother us with your lies! You attacked a ship of the Royal Navy with your spells, and now you will pay for it!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:228
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:233
 msgid "I need loyal warriors from Elensefar to help me on my quest. Black the Red, do you want to join me in retaking Elensefar from these orcs?"
 msgstr ""
 
 #. [message]: id=Aldran
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:232
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:237
 msgid "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:236
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:241
 msgid "Why is a ship from Elensefar carrying bandits and thieves?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:240
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:245
 msgid "They come from the... less _wealthy_ parts of Elensefar. But they are still fiercely loyal to it. They will be good fighters. I will join, if you'll have me."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:244
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:249
 msgid "Very well. Thats not so different from my own crew. Aldran - we will not fight you if you do not attack us, but you must let us go on our way."
 msgstr ""
 
 #. [message]: id=Aldran
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:248
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:253
 msgid "Ha! I will bring you and your ally in to Weldyn to be tried for treason. And it does not matter it is two boats to one; I have already sent a boat to inform the King, and get reinforcements."
 msgstr ""
 
 #. [message]: id=Madru
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:252
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:257
 msgid "Remember, crew, the healing grog is stored in those barrels."
 msgstr ""
 
 #. [message]: id=$temp.id
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:284
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:289
 msgid "Ah, some nice, refreshing grog! *gulp*"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:288
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:293
 msgid "Drinking the grog heals $temp.name|!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:379
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:334
 msgid "Well, what is it anyway that you people want? Why did you help us?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:383
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:338
 msgid "We go out to sea, to build up an army large enough to retake Elensefar. You're an Elensian, right? I think you owe us your help. We did just save you from death, and now we have the men of Wesnoth against us in return."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:387
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:342
 msgid "Well, I have been in Elensefar, and owe some help to it. Very well. Here is what I will do. There is an island in the west that has many warriors on it who will be willing to help you; I will join you, and try to convince those warriors to also, if you grant me one request."
 msgstr ""
 
 #. [message]: id=Madru
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:391
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:346
 msgid "Which is?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:395
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:350
 msgid "I can't tell you until we reach the Western isle I told you about. That's part of the fun."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:399
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:354
 msgid "Oh, fine... 'I swear on Elensefar my city and on my honor as a Sailor that I will honor your request, whatever it may be, whenever we reach this Western island and you secure the help of the warriors that live there.' Happy?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:403
+#: ./Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:358
 msgid "Very much so. Now, I will move my troops to your boat (it is faster), and we will head on west..."
 msgstr ""
 
