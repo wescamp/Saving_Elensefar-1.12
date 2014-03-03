@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:46+0100\n"
+"POT-Creation-Date: 2014-03-03 21:32+0100\n"
 "PO-Revision-Date: 2012-10-13 04:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -239,7 +239,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:159
 #: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:70
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:48
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:51
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:75
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:111
 #: Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:50
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:44
@@ -264,7 +264,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:163
 #: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:74
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:52
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:55
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:79
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:115
 #: Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:54
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:48
@@ -353,7 +353,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:88
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:44
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:47
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:71
 #: Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:46
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:40
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:48
@@ -371,7 +371,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:167
 #: Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:78
 #: Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:56
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:59
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:83
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:119
 #: Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:58
 #: Saving_Elensefar/scenarios/i16_Goblins.cfg:52
@@ -1689,54 +1689,54 @@ msgid "Sea Hawks"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:98
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:122
 msgid "I found a treasure! I count at least 500 gold pieces"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:133
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:157
 msgid ""
 "I see there are more undead! I wonder how many of these did not go all the "
 "way across with Jevyan?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:137
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:161
 msgid ""
 "I have seen several of these wandering undead where I come from. Haven't you?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:141
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:165
 msgid ""
 "Mostly I travel south to the southern continent, not west like this. There "
 "are no undead there!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:145
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:169
 msgid "I see..."
 msgstr ""
 
 #. [message]: id=Kar-Salazz
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:149
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:173
 msgid ""
 "Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
 "to defeatzz!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:153
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:177
 msgid "Why did he speak like a lizard?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:174
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:198
 msgid "What the...?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:178
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:202
 msgid "That must be why he spoke like that. He is partly a lizard!"
 msgstr ""
 
@@ -3871,6 +3871,6 @@ msgid "Grog Barrel"
 msgstr ""
 
 #. [terrain_type]: id=SE_ShipDock
-#: Saving_Elensefar/utils/terrain.cfg:26
+#: Saving_Elensefar/utils/terrain.cfg:22
 msgid "Ship Dock"
 msgstr ""
